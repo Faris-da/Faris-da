@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faris-Da</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Travel;Sport;Learn+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Travel;Sport;Learn+new+things; Zinedine+Zidan">
     <h3 align="center">Data Analyst Junior</h3>
     <h3 align="center">I like statistics, underdestanding things and making sense to events 🥖</h3>
 </p>
