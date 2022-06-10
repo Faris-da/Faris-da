@@ -6,7 +6,7 @@
     <h3 align="center">I like statistics, underdestanding things and making sense to events 🥖</h3>
 </p>
 
-
+<img align="right" alt="Codage" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 - 🌱 I’m currently learning **AZURE environment for a new certification(AZ-900)**
 
