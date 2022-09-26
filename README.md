@@ -8,7 +8,7 @@
 
 <img align="right" alt="Codage" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-- 🌱 I’m currently learning **AZURE environment for a new certification(AZ-900)**
+- 🌱 I’m currently learning **SCRUM environment for a new certification(PSM1)**
 
 - 👯 I’m looking to collaborate on **on python project or sql**
 
